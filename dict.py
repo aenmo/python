@@ -54,7 +54,7 @@ thisdict = {
 "model": "hurrican",
 "year": "2005"
 }
-if "modeluuu" in thisdict:
+if "model" in thisdict:
     print("Yes, 'model' is one of the keys in the thisdict dictionary")
 print(len(thisdict))
 
